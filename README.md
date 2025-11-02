@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building Agentic systems
+- 🔭 I’m currently working on building scalable resilient distributed systems
 - 🌱 I’m currently learning RAG
 - 💬 Ask me about trending tech!!
 - 📫 How to reach me: msarnapurnasatapathy@gmail.com
